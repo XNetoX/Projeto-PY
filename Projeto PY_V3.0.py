@@ -4,7 +4,7 @@ Windows
 Calcular a area de uma circunferencia e imprimir o resultado
 pi= math.pi
 raio= Entrada do usuario
-a=pi*raio**2
+a=pi*float(raio)**2
 """
 
 # importacoes
